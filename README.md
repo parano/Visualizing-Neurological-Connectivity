@@ -1,14 +1,15 @@
 Network Flow: Visualizing Neurological Connectivity
 ===============
+## Team Members
 Yang Chaoyu, Aniket Handa, Gregory Nelson, A Conrad Nied {chaoyu, aniket, glnelson, anied}@uw.edu
 
 ![Summary](summary.png)
 
 <Add abstract here>
 
-[Poster](https://github.com/CSE512-14W/fp-chaoyu-aniket-glnelson-anied/raw/master/final/poster-chaoyu-aniket-glnelson-anied.pdf)
+[Poster](https://github.com/CSE512-14W/fp-chaoyu-aniket-glnelson-anied/raw/gh-pages/final/poster-chaoyu-aniket-glnelson-anied.pdf)
 
-[Final Paper](https://github.com/CSE512-14W/fp-chaoyu-aniket-glnelson-anied/raw/master/final/paper-chaoyu-aniket-glnelson-anied.pdf) 
+[Final Paper](https://github.com/CSE512-14W/fp-chaoyu-aniket-glnelson-anied/raw/gh-pages/final/paper-chaoyu-aniket-glnelson-anied.pdf) 
 
 ## Running Instructions
 
@@ -26,7 +27,10 @@ Access our visualization at http://cse512-14w.github.io/fp-chaoyu-aniket-glnelso
 
 Each member took part in writing code and designing the system. To break it down by focused contribution:
 
-Chaoyu: Coding lead
-Aniket: Progress report, Coding
-Greg: Literature review, deliverables
-Conrad: Dataset, Matlab coding, deliverables
+* Chaoyu: Coding lead
+
+* Aniket: Progress report, Coding
+
+* Greg: Literature review, deliverables
+
+* Conrad: Dataset, Matlab coding, deliverables
